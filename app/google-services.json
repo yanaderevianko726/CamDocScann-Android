@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "835403667611",
+    "project_id": "camdocscann-e4e38",
+    "storage_bucket": "camdocscann-e4e38.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:835403667611:android:6df490795f2afb46fdce3e",
+        "android_client_info": {
+          "package_name": "com.camdocscanner.pdfscanner"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "835403667611-slg9p0qki3lql0i4ud2icld1f33endk8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDrQk6dSarGGzHAJxNM-lDlP_dte9ZpOOA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "835403667611-slg9p0qki3lql0i4ud2icld1f33endk8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

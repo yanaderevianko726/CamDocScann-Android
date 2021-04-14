@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="textColor">#8a1c44</color>
+    <color name="colorPrimary">#1aa3ef</color>
+    <color name="colorPrimaryDark">#1aa3ef</color>
+    <color name="colorAccent">#1aa3ef</color>
+
+    <color name="blue">#ff59a9ff</color>
+    <color name="orange">#ffff900d</color>
+
+    <color name="polygonViewCircleStrokeColor">#ff59a9ff</color>
+    <color name="polygonViewCircleBackground">#90e5f8ff</color>
+</resources>
