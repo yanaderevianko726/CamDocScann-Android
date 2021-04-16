@@ -11,6 +11,10 @@ Fast and smooth Image Processing on the fly
 Scans are saved to your device as images or pdf
 Advance image processing to enhance images for greyscale and contrast
 
+## Get Started
+ Please create firebase project and add anroid project with your package name. Download google-services.json and move it to app folder.
+ You can change the package name in the project and build and run the project.
+
 ## Screenshot
 
 |                Screenshot               |                 Screenshot            |               Screenshot              |
