@@ -13,17 +13,13 @@ Advance image processing to enhance images for greyscale and contrast
 
 ## Screenshot
 
-|                Screenshot               | Screenshot |
-|:---------------------------------------:|:-------------------------------------:|
-| ![screenshot](screens/screen_1.jpg)   | ![screenshot](screens/screen_2.jpg)     |
+|                Screenshot               |                 Screenshot            |               Screenshot              |
+|:---------------------------------------:|:-------------------------------------:|:-------------------------------------:|
+| ![screenshot](screens/screen_1.jpg)   | ![screenshot](screens/screen_2.jpg)     | ![screenshot](screens/screen_3.jpg)   |
 
-|                Screenshot               | Screenshot |
-|:---------------------------------------:|:-------------------------------------:|
-| ![screenshot](screens/screen_3.jpg)   | ![screenshot](screens/screen_4.jpg)     |
-
-|                Screenshot               | Screenshot |
-|:---------------------------------------:|:-------------------------------------:|
-| ![screenshot](screens/screen_5.jpg)   | ![screenshot](screens/screen_6.jpg)     |
+|                Screenshot               |                 Screenshot            |               Screenshot              |
+|:---------------------------------------:|:-------------------------------------:|:-------------------------------------:|
+| ![screenshot](screens/screen_4.jpg)   | ![screenshot](screens/screen_5.jpg)     | ![screenshot](screens/screen_6.jpg)   |
 
 |                Screenshot               | 
 |:---------------------------------------:|
